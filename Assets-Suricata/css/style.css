@@ -1,0 +1,28 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.hero {
+    padding: 0 15rem;
+}
+
+.link-primary {
+    text-decoration: none;
+}
+
+
+.img {
+    height: 100px;
+    width: 53px;
+}
+
+.nav-link2 {
+    margin: 0.75rem;
+    text-decoration: none;
+    color: white;
+}
+
+#iconos i {
+    padding-right: 2rem;
+}
+
